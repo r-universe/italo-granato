@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BGGE"]
+	path = BGGE
+	url = https://github.com/italo-granato/bgge
+	shallow = true
+	registered = true
+[submodule "snpReady"]
+	path = snpReady
+	url = https://github.com/italo-granato/snpready
+	shallow = true
+	registered = true

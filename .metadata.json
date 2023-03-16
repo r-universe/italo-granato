@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BGGE",
+    "oncran": true
+  },
+  {
+    "package": "snpReady",
+    "oncran": true
+  }
+]
