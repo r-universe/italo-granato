@@ -5,6 +5,3 @@
 [submodule "BGGE"]
 	path = BGGE
 	url = https://github.com/italo-granato/bgge
-[submodule "snpReady"]
-	path = snpReady
-	url = https://github.com/italo-granato/snpready
